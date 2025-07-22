@@ -1,5 +1,18 @@
+<p align="center">
+  <img src="assets/banner.jpeg" alt="Banner de Giuliano Gerlo" width="100%" />
+</p>
+
 # Sobre mí:
 - Soy Técnico Superior en Desarrollo de Software y Full-Stack Developer<br>- Trabajo en una empresa y también como **freelance** en ArtisansThinking.<br>- Me apasiona crear soluciones web, tanto del lado del backend como del frontend.<br>- Me especializo en desarrollo con **PHP**,  **LARAVEL**,**MySQL**, **XAMPP**, **HTML**, **CSS**, **JavaScript** y **Bootstrap**.<br>- Experiencia en el diseño, optimización y mantenimiento de sitios y aplicaciones web.
+
+## 🚀 Proyectos Destacados
+
+- **Sistema de gestión y venta de propiedades para inmobiliaria:**  
+  [nz-estudiojuridicoinmobiliario.com](https://nz-estudiojuridicoinmobiliario.com)
+- **E-commerce para tienda de tecnología:**  
+  [clovertecno.com](https://clovertecno.com/)
+- **Freelance y desarrollos personalizados:**  
+  [ArtisansThinking](https://www.artisansthinking.com/)
 
 
 ## 🌐 Socials:
