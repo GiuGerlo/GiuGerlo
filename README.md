@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpeg" alt="Banner de Giuliano Gerlo" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFZv-V7ZBwHuA/profile-displaybackgroundimage-shrink_350_1400/B4DZaw0e8IG8AY-/0/1746723271660?e=1756339200&v=beta&t=lCIpiNDGXUMKSyQjxguBfKUsyTz3seJ7gUh_n_qGWTM" alt="Banner de Giuliano Gerlo" width="100%" />
 </p>
 
 # Sobre mí:
