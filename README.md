@@ -1,6 +1,6 @@
-<!-- ──────────────────────────────────────────────────────────────── --[...]
+<!-- ──────────────────────────────────────────────────────────────── -->
 <!-- Banner -->
-<!-- ──────────────────────────────────────────────────────────────── --[...]
+<!-- ──────────────────────────────────────────────────────────────── -->
 <p align="center">
   <img src="./assets/img/banner.png" alt="Giuliano Gerlo — Full-Stack Developer" width="100%" />
 </p>
@@ -85,12 +85,12 @@
 
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
-| **🌳 Ecosistema RAMCC** | Sitios institucionales, aula virtual con Mercado Pago, sistema Mi-Huella (Flutter + API PHP) y censo CenArb (Flutter + Laravel). | PHP · Laravel · Flutter · Mercad[...]
-| **💪 Personal Gym Tracker** | App de seguimiento de hipertrofia. React + PHP, multi-usuario, CI/CD propio a Hostinger con GitHub Actions. | React · PHP · MariaDB · GitHub Actions | [Detalle[...]
-| **🛍️ Next — Tienda de Ropa** | Sistema integral: ventas, pagos parciales, préstamos de prendas, dashboard con métricas y export Excel profesional. | PHP · MySQL · Bootstrap · DataTab[...]
-| **🏠 Inmobiliaria NZ** | Catálogo público con buscador instantáneo, mapa dinámico con clusters y panel admin con drag-and-drop. | PHP · MySQL · Google Maps API | [Live](https://nz-estudi[...]
-| **🛒 CloverTecno** | E-commerce de tecnología con checkout Mercado Pago, gestión de stock vía Excel y notificaciones por email. | PHP · MySQL · jQuery · Mercado Pago | [Live](https://clo[...]
-| **💰 Gestor de Finanzas** | Gestor multi-usuario de ingresos, gastos y gastos fijos con control de acceso por roles (RBAC) y auditoría. | PHP · MySQL · Bootstrap | [Detalle](https://giulian[...]
+| **🌳 Ecosistema RAMCC** | Sitios institucionales, aula virtual con Mercado Pago, sistema Mi-Huella (Flutter + API PHP) y censo CenArb (Flutter + Laravel). | PHP · Laravel · Flutter · Mercado Pago · Docker | [ramcc.net](https://ramcc.net/) |
+| **💪 Personal Gym Tracker** | App de seguimiento de hipertrofia. React + PHP, multi-usuario, CI/CD propio a Hostinger con GitHub Actions. | React · PHP · MariaDB · GitHub Actions | [Detalle](https://giulianogerlo.vercel.app/proyectos/gym-tracker) |
+| **🛍️ Next — Tienda de Ropa** | Sistema integral: ventas, pagos parciales, préstamos de prendas, dashboard con métricas y export Excel profesional. | PHP · MySQL · Bootstrap · DataTables · PhpSpreadsheet | [Repo](https://github.com/GiuGerlo/Next-Tienda) |
+| **🏠 Inmobiliaria NZ** | Catálogo público con buscador instantáneo, mapa dinámico con clusters y panel admin con drag-and-drop. | PHP · MySQL · Google Maps API | [Live](https://nz-estudiojuridicoinmobiliario.com/) |
+| **🛒 CloverTecno** | E-commerce de tecnología con checkout Mercado Pago, gestión de stock vía Excel y notificaciones por email. | PHP · MySQL · jQuery · Mercado Pago | [Live](https://clovertecno.com/) |
+| **💰 Gestor de Finanzas** | Gestor multi-usuario de ingresos, gastos y gastos fijos con control de acceso por roles (RBAC) y auditoría. | PHP · MySQL · Bootstrap | [Detalle](https://giulianogerlo.vercel.app/proyectos/gestor-finanzas) |
 
 👉 **Ver todos los proyectos en detalle:** [giulianogerlo.vercel.app](https://giulianogerlo.vercel.app/#projects)
 
@@ -99,13 +99,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiuGerlo&theme=dark&hide_border=true&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiuGerlo&theme=dark&hide_border=true&include_all_commits=true" alt="Stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GiuGerlo&theme=dark&hide_border=true" alt="Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuGerlo&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiuGerlo&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 ---
